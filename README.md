@@ -1,4 +1,10 @@
-# RSS Evaluation Artifacts
+# Regression-Stratified Sampling for Optimized Algorithm Selection in Time-Constrained Tabular AutoML
+
+
+![image](https://github.com/user-attachments/assets/dd66255c-d0df-4092-9666-5e5ec16ee604){:height="50%" width="50%"}
+
+
+### RSS Evaluation Artifacts
 
 The following are the artifacts for the RSS paper:
 
