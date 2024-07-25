@@ -1,9 +1,10 @@
 # Regression-Stratified Sampling for Optimized Algorithm Selection in Time-Constrained Tabular AutoML
+[Paper](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression_Stratified_Sampling_Paper.pdf)  |  [Poster](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression-Stratified_Sampling_Poster.pdf)
+
 
 
 ![image](https://github.com/user-attachments/assets/dd66255c-d0df-4092-9666-5e5ec16ee604)
 
-[Poster](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression-Stratified_Sampling_Poster.pdf)
 ### RSS Evaluation Artifacts
 
 The following are the artifacts for the RSS paper:
