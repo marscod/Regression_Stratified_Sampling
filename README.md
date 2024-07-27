@@ -1,5 +1,9 @@
+
 # Regression-Stratified Sampling for Optimized Algorithm Selection in Time-Constrained Tabular AutoML
-[Paper](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression_Stratified_Sampling_Paper.pdf)  |  [Poster](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression-Stratified_Sampling_Poster.pdf)
+[Paper](https://openreview.net/pdf?id=Wq8GG3j1o3)  |  [Poster](https://github.com/marscod/Regression_Stratified_Sampling/blob/main/Regression-Stratified_Sampling_Poster.pdf) | [SPIGM @ ICML 2024](https://icml.cc/virtual/2024/37026)
+
+![image](https://github.com/user-attachments/assets/614c373c-2d49-4539-8466-b340d2272e27)
+
 
 
 
